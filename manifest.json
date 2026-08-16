@@ -1,0 +1,16 @@
+{
+  "name": "我的储物间",
+  "short_name": "储物间",
+  "description": "精品资源导航",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#0f1115",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
